@@ -3,7 +3,9 @@ A widget that closes windows when the user blinks rapidly. This widget is for an
 
 This app is still a work in progress, but the basic functionality is there. Additionally, this app only works for MacOSX only at the moment. This is because the app utilizes applescript to close out windows. The app also only closes Netflix in Google Chrome at the moment. I am working on improving the user interface, and adding support to closing more apps.
 
-How Do I Use This Code?
-Download the code or use git clone
-Make sure you have NodeJS Installed
-Cd into the code directory and type npm start
+# How Do I Use This Code?
+- Download the code or use git clone
+- Make sure you have NodeJS Installed
+- Unzip the brfv4 zip file
+- Cd into the code directory and type npm install to retrieve all the appropriate packages
+- Type npm start to run the code
