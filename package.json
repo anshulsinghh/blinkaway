@@ -1,7 +1,7 @@
 {
-  "name": "blinkaway",
+  "name": "facecontrol",
   "version": "1.0.0",
-  "description": "Closes all YouTube and Netflix tabs if a user blinks rapidly.",
+  "description": "A widget that executes macros based on facial movement",
   "main": "anothertest.js",
   "dependencies": {
     "applescript": "^1.0.0",
