@@ -1,5 +1,5 @@
 {
-  "name": "facecontrol",
+  "name": "blinkaway",
   "version": "1.0.0",
   "description": "A widget that executes macros based on facial movement",
   "main": "anothertest.js",
