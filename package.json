@@ -2,7 +2,7 @@
   "name": "blinkaway",
   "version": "1.0.0",
   "description": "A widget that executes macros based on facial movement",
-  "main": "anothertest.js",
+  "main": "main.js",
   "dependencies": {
     "applescript": "^1.0.0",
     "electron-packager": "^13.0.1",
