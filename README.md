@@ -1,4 +1,4 @@
-# FaceControl
+# BlinkAway
 A widget that allows users to map macros to certain facial movements. Currently the app only supports eye blinks, but yawning control is on the way as well. The app currently closes Netflix windows if the user blinks their eyes rapidly. More macros and facial detection abilities are on the way.
 
 Demo: https://youtu.be/jU8qRv_dXro
